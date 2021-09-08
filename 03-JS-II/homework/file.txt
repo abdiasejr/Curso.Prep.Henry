@@ -1,0 +1,9 @@
+# Homework JavaScript II
+
+1 ¿Qué es el statement for?
+
+Es una declaración cíclica, o sea que se repite una serie de sentencias o única sentencia mientras se cumpla una condición. 
+
+2 ¿Que es y para que sirven &&, || y ! ?
+
+Son operadores lógicos que nos sirven para evaluar la verdad entre dos valores si tenemos el operador && (AND Lógico) y el || (OR Lógico) opera dos o más valores y dependiendo del valor de verdad de las expresiones devuelve true o false, a diferencia de ! (NOT Lógico) este niega el valor de una expresion digamos si algo es true, entonces !true es falso.
