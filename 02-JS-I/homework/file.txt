@@ -1,0 +1,29 @@
+# Definiciones de los lenguajes de programación para niños
+
+1 ¿Qué es una variable?
+
+Es un caja o espacio en la computadora donde guardaremos y recordaremos una información para ser utilizada.
+
+
+2 ¿Qué son los Strings?
+
+Son cadenas de caracteres, que nos sirven para mostrar texto, palabras, simbolos, etc.
+
+
+3 ¿Qué son las funciones?
+
+Es una herramienta que nos permite encapsular código para ser reutilizado, que tiene parametros para realizar un cierta tarea, y nos retorna algo dependiendo que se haya especificado.
+
+Los argumentos son los valores necesarios que le pasamos a la funcion para poder realizar su tarea. 
+
+El return es lo que devuelve la función cuando ejecuta la tarea especificada.
+
+
+5 ¿Que son Declaraciones if?
+
+Es una declaración que toma una condición especificada y evalúa si es verdad o falsa, según sea ejecuta una sentencia o no.
+
+
+6 ¿Valores Booleanos?
+
+Son los valores utilizados en los computadores para entender si algo es verdadero o falso, o como lo entiende el computador 1 o 0.
