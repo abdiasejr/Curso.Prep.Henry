@@ -1,0 +1,5 @@
+# Homework JavaScript III
+
+1 ¿Qué son los arrays?
+
+Los arrays son una herramienta que emula una lista donde podemos almacenar variables, objetos, numeros y otros arreglos. Estos nos sirven para tener multiples datos de un mismo tipo o diferente si se quiere en una sola referencia como lo puede ser una lista de tipo array.
