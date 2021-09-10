@@ -1,0 +1,21 @@
+# Homework JavaScript IV
+
+1 ¿Qué son los objetos?
+
+Los objetos son contendores de atributos y métodos de datos de la vida real o conceptos abstracto como puede ser una persona, que tiene un nombre, una edad, un id, etc. El proposito es encapsular información similar en un mismo espacio, a diferencia de los arreglos, su uso es más para datos asociados al objeto en si.
+
+2 ¿Qué son las propiedades de los objetos?
+
+Las propiedades son las características o atributos que posee un objeto, hay infinidad de ejemplos, uno de ellos es un auto, tiene una marca, tiene una placa, también un seguro, etc etc.
+
+3 ¿Qué son los métodos?
+
+Asi como los objetos tienen atributos, una persona tiene funcionalidades, como la de caminar, beber agua, saltar, etc. Ha esto se refiere cuando decimos un método, es la capacidad de un objeto de tener un funcionalidad que son propiedad suya. 
+
+4 ¿Bucle for . . . in ?
+
+La declaracion for...in es un tipo de declaracion de JavaScript para iterar objetos y arrays, donde en cada loop se guarda la propiedad o clave de un objeto especificado.
+
+5 Notación de punto vs Notación de corchete
+
+La notacion de punto hace una llamada a la propiedad o método de una funcion, objeto, variable, etc. Mientras que la notación de corchete hace un llamado al elemento de una matriz que se llama a través de un string.
