@@ -1,0 +1,9 @@
+# Homework JavaScript V
+
+1 ¿Qué son los prototipos?
+
+Son un mecanismo mediante el cual los objetos en JavaScript heredan características entre si. Es una características o propiedad que posean todos los objetos, cuando definimos un clase constructora, tendrá métodos heredados de objetos, pero arbitrariamente podemos definir métodos heredables a través de prototype.
+
+2 ¿Qué son los constructors?
+
+Es una plantilla de como esta definido una clase originalmente, que a su vez es una función por lo tanto a través de ella podemos instanciar un objeto. Todos los métodos y propiedades de una clase añadidos a su prototipo estan disponibles en todas las instancias de los objetos creados a partir de su constructor. El constructor hace referencia a la clase o función misma, si lee por consola. 
