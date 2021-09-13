@@ -1,0 +1,5 @@
+# Homework JavaScript VI
+
+1 ¿Qué es un callback? 
+
+Una funcion de devolución de llamada, es un tipo de técnica en la programación para pasar el nombre de una función como argumento dentro de otra función cualquiera y ser invocada en cualquier lugar del programa de esa función, para completar alguna rutina o tarea.
