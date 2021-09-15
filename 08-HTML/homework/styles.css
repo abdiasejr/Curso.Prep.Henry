@@ -1,3 +1,23 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.divClass {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
 .divClass h1{
     color: #753be0;
 }
@@ -7,12 +27,15 @@
     margin: 50px;
 }
 
-#thirDiv {
-    width: 500px;
-    height: 600px;
+#thirdDiv {
     background-color: #3bbfe0;
     padding: 50px;
-    border: 1px solid black;
+    border: 1px solid #3bbfe0;
+    border-radius: 5px;
+}
+
+#thirdDiv li{
+    margin: 10px;
 }
 
 #thirdDiv img{
